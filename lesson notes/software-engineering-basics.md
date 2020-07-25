@@ -76,15 +76,12 @@ Below there are the main remarks from this part of the course.
 
 -- As a reminder, your package should be placed in a folder with the following folders and files:
 
---- A folder with the name of your package that contains:
+-- * A folder with the name of your package that contains:
 
---- The Python code that makes up your package; a README.md file; an init.py; license.txt; setup.cfg; setup.py file
+-- * The Python code that makes up your package; a README.md file; an init.py; license.txt; setup.cfg; setup.py file
 
-## PyPi vs. Test PyPi
-Note that pypi.org and test.pypy.org are two different websites. You'll need to register separately at each website. If you only register at pypi.org, you will not be able to upload to the test.pypy.org repository.
+* PyPi vs. Test PyPi: Note that pypi.org and test.pypy.org are two different websites. You'll need to register separately at each website. If you only register at pypi.org, you will not be able to upload to the test.pypy.org repository.
 
-## Unique Name
-Remember that your package name must be unique. If you use a package name that is already taken, you will get an error when trying to upload the package.
+* Unique Name: your package name must be unique
 
-## Re-uploading and Versioning
-Once you upload your package to PyPi, you cannot upload the same version again. All that means is that you need to go into your setup.py file and change the version number. For example, if you uploaded a package with version = 0.1.1, then you'll need to change this to something else like version = 0.1.2.
+* Re-uploading and Versioning: Once you upload your package to PyPi, you cannot upload the same version again. All that means is that you need to go into your setup.py file and change the version number. For example, if you uploaded a package with version = 0.1.1, then you'll need to change this to something else like version = 0.1.2.
