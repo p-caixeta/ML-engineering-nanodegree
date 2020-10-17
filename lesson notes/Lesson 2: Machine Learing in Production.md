@@ -44,7 +44,7 @@ Noting that both the HTTP request and HTTP response are communications sent betw
 
 **Message (Data or Body)** (for deployment will contain the user’s data which is input into the model)
 
-![httpmethods.png](attachment:httpmethods.png)
+![httpmethods.png](httpmethods.png)
 
 -The HTTP response sent from your model to your application is composed of three parts:
 
@@ -77,7 +77,7 @@ The common tool set works with any container regardless of the software the cont
 
 *Docker structure*:
 
-![container-2.png](attachment:container-2.png)
+![container-2.png](container-2.png)
 
 -The **underlying computational infrastructure** which can be: a cloud provider’s data center, an on-premise data center, or even someone’s local computer.
 
