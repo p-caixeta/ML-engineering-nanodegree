@@ -8,6 +8,7 @@ The lessons folder contain:
 1. Software Engineering Fundamentals
 2. Machine Learning in Production 
 3. Case Studies
+4. Time Series Forecasting
 
 There are 3 main projects:
 1. Sentiment Analysis
