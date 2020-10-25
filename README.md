@@ -14,3 +14,7 @@ There are 3 main projects:
 1. Sentiment Analysis
 2. Plagiarism Detector
 3. Capstone Proposal
+
+___________________________________________________________________
+
+### Please fell free to make any coments or to edit!
